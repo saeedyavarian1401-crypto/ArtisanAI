@@ -1,5 +1,5 @@
 
-```python
+python
 import asyncio
 import html
 import logging
